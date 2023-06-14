@@ -246,7 +246,7 @@ void funcApp4() {
 		App4Window();
 	}
 };
-
+//
 
 void App5Window() {
 	cout << "1.´´½¨" << endl;
